@@ -1,0 +1,8 @@
+<resources>
+
+    <string name="app_name">Fragment Tabs Tutorial</string>
+    <string name="menu_settings">Settings</string>
+    <string name="Fragment1">This is Audio Fragment Sample</string>
+    <string name="Fragment2">This is Video Fragment Sample</string>
+
+</resources>
